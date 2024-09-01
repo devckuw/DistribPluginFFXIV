@@ -1,10 +1,10 @@
 [
     {
         "Author":  "Loody",
-        "Name":  "combatHelper",
+        "Name":  "Combat Helper",
         "InternalName":  "combatHelper",
-        "AssemblyVersion":  "0.0.0.1",
-        "Description":  "A description that shows up in /xlplugins. List any major slash-command(s).",
+        "AssemblyVersion":  "0.0.3.4",
+        "Description":  "Gives u a pot reminder, a timeline of fights, keep track of spread/stack ..",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/devckuw/combatHelper",
         "Tags":  [
@@ -17,14 +17,14 @@
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
-        "Punchline":  "A short one-liner that shows up in /xlplugins.",
+        "Punchline":  "Never forget to use pots again and maybe some more usefull tool",
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdated":  1725201814,
-        "DownloadCount":  3,
-        "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.0.3.3/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.0.3.3/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.0.3.3/latest.zip"
+        "LastUpdated":  1725206140,
+        "DownloadCount":  0,
+        "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.0.3.4/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.0.3.4/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.0.3.4/latest.zip"
     }
 ]
