@@ -1,0 +1,30 @@
+[
+    {
+        "Author":  "Loody",
+        "Name":  "combatHelper",
+        "InternalName":  "combatHelper",
+        "AssemblyVersion":  "0.0.0.1",
+        "Description":  "A description that shows up in /xlplugins. List any major slash-command(s).",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/devckuw/combatHelper",
+        "Tags":  [
+                     "savage",
+                     "plugin",
+                     "helper"
+                 ],
+        "DalamudApiLevel":  10,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "A short one-liner that shows up in /xlplugins.",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdated":  1725201814,
+        "DownloadCount":  3,
+        "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.0.3.3/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.0.3.3/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.0.3.3/latest.zip"
+    }
+]
