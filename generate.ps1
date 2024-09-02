@@ -7,7 +7,7 @@ $header = @{
   "Authorization" = "Bearer $env:GITHUB_TOKEN"
 }
 
-$repos = @("combatHelper")
+$repos = @("combatHelper", "DiscordBotFFXIV")
 
 foreach ($repo in $repos)
 {
