@@ -3,7 +3,7 @@
         "Author":  "Loody",
         "Name":  "Combat Helper",
         "InternalName":  "combatHelper",
-        "AssemblyVersion":  "0.1.1.1",
+        "AssemblyVersion":  "0.1.1.2",
         "Description":  "Gives u a pot reminder, a timeline of fights, keep track of spread/stack ..",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/devckuw/combatHelper",
@@ -22,11 +22,11 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdated":  1732031343,
+        "LastUpdated":  1732050847,
         "DownloadCount":  0,
-        "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.1.1.1/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.1.1.1/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.1.1.1/latest.zip"
+        "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.1.1.2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.1.1.2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.1.1.2/latest.zip"
     },
     {
         "Author":  "Loody",
@@ -52,7 +52,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1731851149,
-        "DownloadCount":  4,
+        "DownloadCount":  5,
         "DownloadLinkInstall":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.3.0/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.3.0/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.3.0/latest.zip"
