@@ -11,13 +11,19 @@ $repos = @("combatHelper", "DiscordBotFFXIV")
 
 foreach ($repo in $repos)
 {
+	# Fetch all releases data for total download
+	$data = Invoke-WebRequest -Uri "https://api.github.com/repos/$($username)/$($repo)/releases" -Headers $header
+	$json = ConvertFrom-Json $data.Content
+	$count = ($json.assets.download_count | Measure-Object -sum).sum
+
+
 	# Fetch the release data from the Gibhub API
 	$data = Invoke-WebRequest -Uri "https://api.github.com/repos/$($username)/$($repo)/releases/latest" -Headers $header
 	$json = ConvertFrom-Json $data.content
 	$asset = $json.assets
 
 	# Get data from the api request.
-	$count = $asset.download_count
+	#$count = $asset.download_count
 	$download = $asset.browser_download_url
 
 	# Get timestamp for the release.
