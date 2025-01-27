@@ -2,6 +2,7 @@ $pluginsOut = @()
 
 $username = "devckuw"
 
+#setx GITHUB_TOKEN azerazerazer
 # Authorization header for the Github API.
 $header = @{
   "Authorization" = "Bearer $env:GITHUB_TOKEN"
