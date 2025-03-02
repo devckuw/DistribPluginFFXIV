@@ -23,7 +23,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1735563377,
-        "DownloadCount":  94,
+        "DownloadCount":  95,
         "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.1.1.4/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.1.1.4/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.1.1.4/latest.zip"
@@ -52,7 +52,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1731851149,
-        "DownloadCount":  36,
+        "DownloadCount":  37,
         "DownloadLinkInstall":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.3.0/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.3.0/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.3.0/latest.zip"
@@ -81,7 +81,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1733175019,
-        "DownloadCount":  35,
+        "DownloadCount":  36,
         "DownloadLinkInstall":  "https://github.com/devckuw/EmoteReact/releases/download/0.0.1.3/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/EmoteReact/releases/download/0.0.1.3/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/EmoteReact/releases/download/0.0.1.3/latest.zip"
@@ -90,7 +90,7 @@
         "Author":  "Loody",
         "Name":  "Emote Counter",
         "InternalName":  "EmCounter",
-        "AssemblyVersion":  "0.1.1.0",
+        "AssemblyVersion":  "0.1.1.1",
         "Description":  "Counts emotes received on each character per player.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/devckuw/EmCounter",
@@ -109,10 +109,10 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdated":  1740320487,
-        "DownloadCount":  3,
-        "DownloadLinkInstall":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.0/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.0/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.0/latest.zip"
+        "LastUpdated":  1740938081,
+        "DownloadCount":  7,
+        "DownloadLinkInstall":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip"
     }
 ]
