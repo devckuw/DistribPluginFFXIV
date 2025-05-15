@@ -115,33 +115,33 @@
         "DownloadLinkTesting":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip"
     },
-    {
-        "Author":  "Loody",
-        "Name":  "BetterFriendList",
-        "InternalName":  "BetterFriendList",
-        "AssemblyVersion":  "0.1.0.0",
-        "Description":  "Counts emotes received on each character per player.",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/devckuw/EmCounter",
-        "Tags":  [
-                     "sample",
-                     "plugin",
-                     "Loody"
-                 ],
-        "DalamudApiLevel":  12,
-        "LoadRequiredState":  0,
-        "LoadSync":  false,
-        "CanUnloadAsync":  false,
-        "LoadPriority":  0,
-        "IconUrl":  "https://raw.githubusercontent.com/devckuw/SamplePlugin/master/S/images/icon.png",
-        "Punchline":  "Counts emotes received.",
-        "AcceptsFeedback":  true,
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "LastUpdated":  1747356403,
-        "DownloadCount":  0,
-        "DownloadLinkInstall":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.0.0/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.0.0/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.0.0/latest.zip"
-    }
+  {
+    "Author": "Loody",
+    "Name": "BetterFriendList",
+    "InternalName": "BetterFriendList",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Friend list but with better sorting, can search by name, refresh with a button..",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/devckuw/EmCounter",
+    "Tags": [
+      "sample",
+      "plugin",
+      "Loody"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/devckuw/SamplePlugin/master/S/images/icon.png",
+    "Punchline": "SE friend list sucks.",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1747356403,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/devckuw/BetterFriendList/releases/download/0.1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/devckuw/BetterFriendList/releases/download/0.1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/devckuw/BetterFriendList/releases/download/0.1.0.0/latest.zip"
+  }
 ]
