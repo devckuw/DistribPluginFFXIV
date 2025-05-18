@@ -23,7 +23,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1747356252,
-        "DownloadCount":  108,
+        "DownloadCount":  110,
         "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.1/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.1/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.1/latest.zip"
@@ -52,7 +52,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1743202553,
-        "DownloadCount":  53,
+        "DownloadCount":  54,
         "DownloadLinkInstall":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.0/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.0/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.0/latest.zip"
@@ -81,7 +81,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1743203161,
-        "DownloadCount":  49,
+        "DownloadCount":  50,
         "DownloadLinkInstall":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.0/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.0/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.0/latest.zip"
@@ -110,7 +110,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1740941073,
-        "DownloadCount":  17,
+        "DownloadCount":  18,
         "DownloadLinkInstall":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip"
@@ -119,13 +119,13 @@
         "Author":  "Loody",
         "Name":  "BetterFriendList",
         "InternalName":  "BetterFriendList",
-        "AssemblyVersion":  "0.1.1.0",
-        "Description":  "Friend list but with better sorting, can search by name, refresh with a button..",
+        "AssemblyVersion":  "0.1.2.1",
+        "Description":  "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
         "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/devckuw/EmCounter",
+        "RepoUrl":  "https://github.com/devckuw/BetterFriendList",
         "Tags":  [
-                     "sample",
-                     "plugin",
+                     "friend",
+                     "ui",
                      "Loody"
                  ],
         "DalamudApiLevel":  12,
@@ -133,15 +133,15 @@
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
-        "IconUrl":  "https://raw.githubusercontent.com/devckuw/SamplePlugin/master/S/images/icon.png",
+        "IconUrl":  "https://raw.githubusercontent.com/devckuw/BetterFriendList/master/BetterFriendList/images/icon.png",
         "Punchline":  "SE friend list sucks.",
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdated":  1747422911,
-        "DownloadCount":  4,
-        "DownloadLinkInstall":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.1.0/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.1.0/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.1.0/latest.zip"
+        "LastUpdated":  1747561273,
+        "DownloadCount":  6,
+        "DownloadLinkInstall":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.2.1/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.2.1/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.2.1/latest.zip"
     }
 ]
