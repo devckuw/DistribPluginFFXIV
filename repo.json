@@ -3,7 +3,7 @@
         "Author":  "Loody",
         "Name":  "Combat Helper",
         "InternalName":  "combatHelper",
-        "AssemblyVersion":  "0.1.2.1",
+        "AssemblyVersion":  "0.1.2.2",
         "Description":  "Gives u a pot reminder, a timeline of fights, keep track of spread/stack ..",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/devckuw/combatHelper",
@@ -12,7 +12,7 @@
                      "plugin",
                      "helper"
                  ],
-        "DalamudApiLevel":  12,
+        "DalamudApiLevel":  13,
         "LoadRequiredState":  0,
         "LoadSync":  false,
         "CanUnloadAsync":  false,
@@ -22,17 +22,17 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdated":  1747356252,
-        "DownloadCount":  110,
-        "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.1/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.1/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.1/latest.zip"
+        "LastUpdated":  1754590866,
+        "DownloadCount":  121,
+        "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.2/latest.zip"
     },
     {
         "Author":  "Loody",
         "Name":  "DiscordBotFFXIV",
         "InternalName":  "DiscordBotFFXIV",
-        "AssemblyVersion":  "0.1.5.0",
+        "AssemblyVersion":  "0.1.5.1",
         "Description":  "Discord / FFXIV bot to send msg from discord to the game",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/devckuw/DiscordBotFFXIV",
@@ -41,7 +41,7 @@
                      "message",
                      "friend"
                  ],
-        "DalamudApiLevel":  12,
+        "DalamudApiLevel":  13,
         "LoadRequiredState":  0,
         "LoadSync":  false,
         "CanUnloadAsync":  false,
@@ -51,11 +51,11 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdated":  1743202553,
-        "DownloadCount":  54,
-        "DownloadLinkInstall":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.0/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.0/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.0/latest.zip"
+        "LastUpdated":  1754590985,
+        "DownloadCount":  56,
+        "DownloadLinkInstall":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.1/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.1/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.1/latest.zip"
     },
     {
         "Author":  "Loody",
@@ -80,11 +80,11 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdated":  1743203161,
-        "DownloadCount":  50,
-        "DownloadLinkInstall":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.0/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.0/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.0/latest.zip"
+        "LastUpdated":  1754590917,
+        "DownloadCount":  58,
+        "DownloadLinkInstall":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.1/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.1/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.1/latest.zip"
     },
     {
         "Author":  "Loody",
@@ -110,7 +110,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1740941073,
-        "DownloadCount":  18,
+        "DownloadCount":  19,
         "DownloadLinkInstall":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip"
@@ -119,7 +119,7 @@
         "Author":  "Loody",
         "Name":  "BetterFriendList",
         "InternalName":  "BetterFriendList",
-        "AssemblyVersion":  "0.1.2.1",
+        "AssemblyVersion":  "0.1.2.2",
         "Description":  "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/devckuw/BetterFriendList",
@@ -128,7 +128,7 @@
                      "ui",
                      "Loody"
                  ],
-        "DalamudApiLevel":  12,
+        "DalamudApiLevel":  13,
         "LoadRequiredState":  0,
         "LoadSync":  false,
         "CanUnloadAsync":  false,
@@ -138,10 +138,10 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdated":  1747561273,
-        "DownloadCount":  6,
-        "DownloadLinkInstall":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.2.1/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.2.1/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.2.1/latest.zip"
+        "LastUpdated":  1754590809,
+        "DownloadCount":  31,
+        "DownloadLinkInstall":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.2.2/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.2.2/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/BetterFriendList/releases/download/0.1.2.2/latest.zip"
     }
 ]
