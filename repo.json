@@ -23,7 +23,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1754590866,
-        "DownloadCount":  136,
+        "DownloadCount":  137,
         "DownloadLinkInstall":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.2/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.2/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/combatHelper/releases/download/0.1.2.2/latest.zip"
@@ -52,7 +52,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1754590985,
-        "DownloadCount":  65,
+        "DownloadCount":  66,
         "DownloadLinkInstall":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.1/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.1/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/DiscordBotFFXIV/releases/download/0.1.5.1/latest.zip"
@@ -81,7 +81,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1754700962,
-        "DownloadCount":  76,
+        "DownloadCount":  77,
         "DownloadLinkInstall":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.1/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.1/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.1/latest.zip"
@@ -110,7 +110,7 @@
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
         "LastUpdated":  1740941073,
-        "DownloadCount":  25,
+        "DownloadCount":  26,
         "DownloadLinkInstall":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
         "DownloadLinkTesting":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip"
@@ -119,7 +119,7 @@
         "Author":  "Loody",
         "Name":  "BetterFriendList",
         "InternalName":  "BetterFriendList",
-        "AssemblyVersion":  "1.0.0.0",
+        "AssemblyVersion":  "1.0.1.0",
         "Description":  "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/devckuw/BetterFriendList",
@@ -138,10 +138,10 @@
         "AcceptsFeedback":  true,
         "IsHide":  "False",
         "IsTestingExclusive":  "False",
-        "LastUpdated":  1755197274,
-        "DownloadCount":  43,
-        "DownloadLinkInstall":  "https://github.com/devckuw/BetterFriendList/releases/download/1.0.0.0/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/devckuw/BetterFriendList/releases/download/1.0.0.0/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/devckuw/BetterFriendList/releases/download/1.0.0.0/latest.zip"
+        "LastUpdated":  1755269238,
+        "DownloadCount":  45,
+        "DownloadLinkInstall":  "https://github.com/devckuw/BetterFriendList/releases/download/1.0.1.0/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/devckuw/BetterFriendList/releases/download/1.0.1.0/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/devckuw/BetterFriendList/releases/download/1.0.1.0/latest.zip"
     }
 ]
