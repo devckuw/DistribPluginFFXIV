@@ -35,11 +35,11 @@ foreach ($repo in $repos)
 	Expand-Archive -Path "tmp.zip" -DestinationPath "tmp" -Force
 
 	# Load the json from the release.zip
-	$config = Get-Content -Path "TMP/$repo.json" | Out-String | ConvertFrom-Json
+	$config = Get-Content -Path "tmp/$repo.json" | Out-String | ConvertFrom-Json
 
 	# remove tmp files
 	Remove-Item -Path "tmp.zip" -Force
-	Remove-Item -Path "TMP" -Force -Recurse
+	Remove-Item -Path "tmp" -Force -Recurse
 
 
 	# Add additional properties to the config.
