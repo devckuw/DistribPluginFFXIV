@@ -23,7 +23,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1766323868,
-    "DownloadCount": 163.0,
+    "DownloadCount": 164.0,
     "DownloadLinkInstall": "https://github.com/devckuw/combatHelper/releases/download/0.1.2.4/latest.zip",
     "DownloadLinkTesting": "https://github.com/devckuw/combatHelper/releases/download/0.1.2.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/devckuw/combatHelper/releases/download/0.1.2.4/latest.zip"
@@ -32,7 +32,7 @@
     "Author": "Loody",
     "Name": "DiscordBotFFXIV",
     "InternalName": "DiscordBotFFXIV",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "Discord / FFXIV bot to send msg from discord to the game",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/devckuw/DiscordBotFFXIV",
@@ -51,11 +51,11 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1766864761,
-    "DownloadCount": 92.0,
-    "DownloadLinkInstall": "https://github.com/devckuw/DiscordBotFFXIV/releases/download/1.0.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/devckuw/DiscordBotFFXIV/releases/download/1.0.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/devckuw/DiscordBotFFXIV/releases/download/1.0.0.0/latest.zip"
+    "LastUpdated": 1766866712,
+    "DownloadCount": 96.0,
+    "DownloadLinkInstall": "https://github.com/devckuw/DiscordBotFFXIV/releases/download/1.0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/devckuw/DiscordBotFFXIV/releases/download/1.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/devckuw/DiscordBotFFXIV/releases/download/1.0.0.1/latest.zip"
   },
   {
     "Author": "Loody",
@@ -81,7 +81,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1766323787,
-    "DownloadCount": 106.0,
+    "DownloadCount": 107.0,
     "DownloadLinkInstall": "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.2/latest.zip",
     "DownloadLinkTesting": "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.2/latest.zip"
@@ -110,7 +110,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1740937473,
-    "DownloadCount": 37.0,
+    "DownloadCount": 38.0,
     "DownloadLinkInstall": "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip"
@@ -139,7 +139,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1766323826,
-    "DownloadCount": 78.0,
+    "DownloadCount": 79.0,
     "DownloadLinkInstall": "https://github.com/devckuw/BetterFriendList/releases/download/1.0.2.5/latest.zip",
     "DownloadLinkTesting": "https://github.com/devckuw/BetterFriendList/releases/download/1.0.2.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/devckuw/BetterFriendList/releases/download/1.0.2.5/latest.zip"
