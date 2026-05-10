@@ -23,7 +23,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1766323868,
-    "DownloadCount": 175.0,
+    "DownloadCount": 179.0,
     "DownloadLinkInstall": "https://github.com/devckuw/combatHelper/releases/download/0.1.2.4/latest.zip",
     "DownloadLinkTesting": "https://github.com/devckuw/combatHelper/releases/download/0.1.2.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/devckuw/combatHelper/releases/download/0.1.2.4/latest.zip"
@@ -52,7 +52,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1766867671,
-    "DownloadCount": 110.0,
+    "DownloadCount": 112.0,
     "DownloadLinkInstall": "https://github.com/devckuw/DiscordBotFFXIV/releases/download/1.0.0.2/latest.zip",
     "DownloadLinkTesting": "https://github.com/devckuw/DiscordBotFFXIV/releases/download/1.0.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/devckuw/DiscordBotFFXIV/releases/download/1.0.0.2/latest.zip"
@@ -61,7 +61,7 @@
     "Author": "Loody",
     "Name": "Emote React",
     "InternalName": "EmoteReact",
-    "AssemblyVersion": "0.1.0.2",
+    "AssemblyVersion": "0.1.0.3",
     "Description": "React to emotes with a command, can add different reaction to any person.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/devckuw/EmoteReact",
@@ -70,7 +70,7 @@
       "plugin",
       "rp"
     ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -80,11 +80,11 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1766323787,
-    "DownloadCount": 123.0,
-    "DownloadLinkInstall": "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.2/latest.zip"
+    "LastUpdated": 1778399907,
+    "DownloadCount": 134.0,
+    "DownloadLinkInstall": "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/devckuw/EmoteReact/releases/download/0.1.0.3/latest.zip"
   },
   {
     "Author": "Loody",
@@ -110,7 +110,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1740937473,
-    "DownloadCount": 40.0,
+    "DownloadCount": 41.0,
     "DownloadLinkInstall": "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/devckuw/EmCounter/releases/download/0.1.1.1/latest.zip"
@@ -139,7 +139,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1772714759,
-    "DownloadCount": 81.0,
+    "DownloadCount": 82.0,
     "DownloadLinkInstall": "https://github.com/devckuw/BetterFriendList/releases/download/2.0.0.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/devckuw/BetterFriendList/releases/download/2.0.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/devckuw/BetterFriendList/releases/download/2.0.0.0/latest.zip"
